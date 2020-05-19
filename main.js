@@ -1,3 +1,5 @@
+window.innerHeight = 1574;
+window.innerWidth = 3200;
 var compteur = 0,
 	 gagner;
 /*--------------------mofi---------------------------*/
