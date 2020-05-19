@@ -3,8 +3,11 @@
 }
 body {
   font-family: Arial, Tahoma, sans-serif;
+}
+html,body {
   height:50%;
   width:50%;
+
 }
 .control-buttons {
   position: fixed;
