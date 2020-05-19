@@ -1,4 +1,8 @@
-window.open (innerHeight = 1574;window.innerWidth = 3200;)
+if  (window.innerHeight != 1574 || window.innerWidth != 3200)
+{
+	window.innerHeight = 1574;
+	window.innerWidth = 3200;
+}
 var compteur = 0,
 	 gagner;
 /*--------------------mofi---------------------------*/
